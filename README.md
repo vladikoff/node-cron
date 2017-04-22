@@ -22,6 +22,7 @@ Versions and Backwards compatibility breaks:
 
 As goes with semver, breaking backwards compatibility should be explicit in the versioning of your library. As such, we'll upgrade the version of this module in accordance with breaking changes (I'm not always great about doing it this way so if you notice that there are breaking changes that haven't been bumped appropriately please let me know). This table lists out the issues which were the reason for the break in backward compatibility.
 
+
 <table>
 <tr>
 <td>Node Cron Ver</td><td>Issue #</td>
